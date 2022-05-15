@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/home/yasith/Documents/GitHub/SimpleExpenseManager/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-hdpi-v4/values-hdpi-v4.xml",
+            "outputFile": "/home/yasith/AndroidStudioProjects/SimpleExpenseManager/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-hdpi-v4/values-hdpi-v4.xml",
             "map": [
                 {
                     "source": "/home/yasith/.gradle/caches/transforms-3/6b9b50c4d8c3b8c03e839aa5266dd695/transformed/appcompat-v7-26.1.0/res/values-hdpi-v4/values-hdpi-v4.xml",

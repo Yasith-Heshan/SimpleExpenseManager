@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/home/yasith/Documents/GitHub/SimpleExpenseManager/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-w820dp-v13/values-w820dp-v13.xml",
+            "outputFile": "/home/yasith/AndroidStudioProjects/SimpleExpenseManager/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-w820dp-v13/values-w820dp-v13.xml",
             "map": [
                 {
-                    "source": "/home/yasith/Documents/GitHub/SimpleExpenseManager/app/src/main/res/values-w820dp/dimens.xml",
+                    "source": "/home/yasith/AndroidStudioProjects/SimpleExpenseManager/app/src/main/res/values-w820dp/dimens.xml",
                     "from": {
                         "startLines": "20",
                         "startColumns": "4",

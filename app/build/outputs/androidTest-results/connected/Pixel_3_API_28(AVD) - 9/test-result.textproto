@@ -1,0 +1,172 @@
+# 2022-05-15T07:18:50.792Z:
+test_suite_meta_data {
+  scheduled_test_case_count: 3
+}
+test_status: PASSED
+test_result {
+  test_case {
+    test_class: "ApplicationTest"
+    test_package: "lk.ac.mrt.cse.dbs.simpleexpensemanager"
+    test_method: "testIncomeTransaction"
+    start_time {
+      seconds: 1652599129
+      nanos: 756000000
+    }
+    end_time {
+      seconds: 1652599130
+      nanos: 113000000
+    }
+  }
+  test_status: PASSED
+  output_artifact {
+    label {
+      label: "logcat"
+      namespace: "android"
+    }
+    source_path {
+      path: "/home/yasith/AndroidStudioProjects/SimpleExpenseManager/app/build/outputs/androidTest-results/connected/Pixel_3_API_28(AVD) - 9/logcat-lk.ac.mrt.cse.dbs.simpleexpensemanager.ApplicationTest-testIncomeTransaction.txt"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info"
+      namespace: "android"
+    }
+    source_path {
+      path: "/home/yasith/AndroidStudioProjects/SimpleExpenseManager/app/build/outputs/androidTest-results/connected/Pixel_3_API_28(AVD) - 9/device-info.pb"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.meminfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "/home/yasith/AndroidStudioProjects/SimpleExpenseManager/app/build/outputs/androidTest-results/connected/Pixel_3_API_28(AVD) - 9/meminfo"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.cpuinfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "/home/yasith/AndroidStudioProjects/SimpleExpenseManager/app/build/outputs/androidTest-results/connected/Pixel_3_API_28(AVD) - 9/cpuinfo"
+    }
+  }
+}
+test_result {
+  test_case {
+    test_class: "ApplicationTest"
+    test_package: "lk.ac.mrt.cse.dbs.simpleexpensemanager"
+    test_method: "testExpenseTransaction"
+    start_time {
+      seconds: 1652599130
+      nanos: 146000000
+    }
+    end_time {
+      seconds: 1652599130
+      nanos: 147000000
+    }
+  }
+  test_status: PASSED
+  output_artifact {
+    label {
+      label: "logcat"
+      namespace: "android"
+    }
+    source_path {
+      path: "/home/yasith/AndroidStudioProjects/SimpleExpenseManager/app/build/outputs/androidTest-results/connected/Pixel_3_API_28(AVD) - 9/logcat-lk.ac.mrt.cse.dbs.simpleexpensemanager.ApplicationTest-testExpenseTransaction.txt"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info"
+      namespace: "android"
+    }
+    source_path {
+      path: "/home/yasith/AndroidStudioProjects/SimpleExpenseManager/app/build/outputs/androidTest-results/connected/Pixel_3_API_28(AVD) - 9/device-info.pb"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.meminfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "/home/yasith/AndroidStudioProjects/SimpleExpenseManager/app/build/outputs/androidTest-results/connected/Pixel_3_API_28(AVD) - 9/meminfo"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.cpuinfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "/home/yasith/AndroidStudioProjects/SimpleExpenseManager/app/build/outputs/androidTest-results/connected/Pixel_3_API_28(AVD) - 9/cpuinfo"
+    }
+  }
+}
+test_result {
+  test_case {
+    test_class: "ApplicationTest"
+    test_package: "lk.ac.mrt.cse.dbs.simpleexpensemanager"
+    test_method: "testAddacount"
+    start_time {
+      seconds: 1652599130
+      nanos: 149000000
+    }
+    end_time {
+      seconds: 1652599130
+      nanos: 177000000
+    }
+  }
+  test_status: PASSED
+  output_artifact {
+    label {
+      label: "logcat"
+      namespace: "android"
+    }
+    source_path {
+      path: "/home/yasith/AndroidStudioProjects/SimpleExpenseManager/app/build/outputs/androidTest-results/connected/Pixel_3_API_28(AVD) - 9/logcat-lk.ac.mrt.cse.dbs.simpleexpensemanager.ApplicationTest-testAddacount.txt"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info"
+      namespace: "android"
+    }
+    source_path {
+      path: "/home/yasith/AndroidStudioProjects/SimpleExpenseManager/app/build/outputs/androidTest-results/connected/Pixel_3_API_28(AVD) - 9/device-info.pb"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.meminfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "/home/yasith/AndroidStudioProjects/SimpleExpenseManager/app/build/outputs/androidTest-results/connected/Pixel_3_API_28(AVD) - 9/meminfo"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.cpuinfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "/home/yasith/AndroidStudioProjects/SimpleExpenseManager/app/build/outputs/androidTest-results/connected/Pixel_3_API_28(AVD) - 9/cpuinfo"
+    }
+  }
+}
+output_artifact {
+  label {
+    label: "test-results.log"
+    namespace: "com.google.testing.platform.runtime.android.driver.AndroidInstrumentationDriver"
+  }
+  source_path {
+    path: "/home/yasith/AndroidStudioProjects/SimpleExpenseManager/app/build/outputs/androidTest-results/connected/Pixel_3_API_28(AVD) - 9/testlog/test-results.log"
+  }
+  type: TEST_DATA
+  mime_type: "text/plain"
+}
