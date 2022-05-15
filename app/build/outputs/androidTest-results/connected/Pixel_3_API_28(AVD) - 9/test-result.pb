@@ -1,7 +1,7 @@
 
-ñ
-k
-ApplicationTest&lk.ac.mrt.cse.dbs.simpleexpensemanagertestIncomeTransaction2ÙÒ‚”€Ê¾è:ÚÒ‚”Àüğ5"ğ
+ò
+l
+ApplicationTest&lk.ac.mrt.cse.dbs.simpleexpensemanagertestIncomeTransaction2¸ß‚”€Êµî:ºß‚”€´’"ğ
 
 logcatandroidÚ
 ×/home/yasith/AndroidStudioProjects/SimpleExpenseManager/app/build/outputs/androidTest-results/connected/Pixel_3_API_28(AVD) - 9/logcat-lk.ac.mrt.cse.dbs.simpleexpensemanager.ApplicationTest-testIncomeTransaction.txt"¬
@@ -13,9 +13,9 @@ k
 ‡/home/yasith/AndroidStudioProjects/SimpleExpenseManager/app/build/outputs/androidTest-results/connected/Pixel_3_API_28(AVD) - 9/meminfo"­
 
 device-info.cpuinfoandroidŠ
-‡/home/yasith/AndroidStudioProjects/SimpleExpenseManager/app/build/outputs/androidTest-results/connected/Pixel_3_API_28(AVD) - 9/cpuinfoò
-k
-ApplicationTest&lk.ac.mrt.cse.dbs.simpleexpensemanagertestExpenseTransaction2ÚÒ‚”€‘ÏE:ÚÒ‚”À•ŒF"ñ
+‡/home/yasith/AndroidStudioProjects/SimpleExpenseManager/app/build/outputs/androidTest-results/connected/Pixel_3_API_28(AVD) - 9/cpuinfoô
+m
+ApplicationTest&lk.ac.mrt.cse.dbs.simpleexpensemanagertestExpenseTransaction2ºß‚”Àú¦½:ºß‚”Àƒ¡¾"ñ
 
 logcatandroidÛ
 Ø/home/yasith/AndroidStudioProjects/SimpleExpenseManager/app/build/outputs/androidTest-results/connected/Pixel_3_API_28(AVD) - 9/logcat-lk.ac.mrt.cse.dbs.simpleexpensemanager.ApplicationTest-testExpenseTransaction.txt"¬
@@ -27,9 +27,9 @@ k
 ‡/home/yasith/AndroidStudioProjects/SimpleExpenseManager/app/build/outputs/androidTest-results/connected/Pixel_3_API_28(AVD) - 9/meminfo"­
 
 device-info.cpuinfoandroidŠ
-‡/home/yasith/AndroidStudioProjects/SimpleExpenseManager/app/build/outputs/androidTest-results/connected/Pixel_3_API_28(AVD) - 9/cpuinfoà
-b
-ApplicationTest&lk.ac.mrt.cse.dbs.simpleexpensemanagertestAddacount2ÚÒ‚”À†G:ÚÒ‚”Àœ³T"è
+‡/home/yasith/AndroidStudioProjects/SimpleExpenseManager/app/build/outputs/androidTest-results/connected/Pixel_3_API_28(AVD) - 9/cpuinfoâ
+d
+ApplicationTest&lk.ac.mrt.cse.dbs.simpleexpensemanagertestAddacount2ºß‚”ÀŒ›¿:ºß‚”À••À"è
 
 logcatandroidÒ
 Ï/home/yasith/AndroidStudioProjects/SimpleExpenseManager/app/build/outputs/androidTest-results/connected/Pixel_3_API_28(AVD) - 9/logcat-lk.ac.mrt.cse.dbs.simpleexpensemanager.ApplicationTest-testAddacount.txt"¬
