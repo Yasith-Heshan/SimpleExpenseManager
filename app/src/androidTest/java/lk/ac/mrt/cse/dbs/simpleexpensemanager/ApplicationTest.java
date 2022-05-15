@@ -86,6 +86,5 @@ public class ApplicationTest {
         } catch (InvalidAccountException e) {
             e.printStackTrace();
         }
-
     }
 }
